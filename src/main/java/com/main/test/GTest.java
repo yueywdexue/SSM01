@@ -95,7 +95,8 @@ public class GTest {
 
     *//**
      * 查询名字中有e并且gender的员工
-     *//*
+     */
+    /*
     @Test
     public void test03(){
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
